@@ -3,8 +3,8 @@ Repository deals with using DHT11 sensor and NodeMCU ESP8266 to measure Temperat
 
 Connections :-
 
-  DHT11 Pin    |   NodeMCU pin
-               | 
-  +  or  Vcc   |    3.3v
-    Output     |    D2
-  -  or GND    |    GND
+   DHT11 Pin     |   NodeMCU pin
+                 | 
+ 1. +  or  Vcc   |    3.3v
+ 2.   Output     |    D2
+ 3. -  or GND    |    GND
